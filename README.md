@@ -5,6 +5,8 @@ As a dedicated Python Django Developer with over 2 years experience, I have a pr
 
 
 🎂 Born in 2001
+
+
 💻 Learning Django
 
 # My Skills
@@ -14,6 +16,8 @@ Version Control: Git
 
 # My Projects
 Online shop: a platform to order anything 
+
+
 social media: a platform like X to post anything
 
 
